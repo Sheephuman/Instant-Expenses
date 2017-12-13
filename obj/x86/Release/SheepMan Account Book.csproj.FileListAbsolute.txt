@@ -1,0 +1,20 @@
+E:\Code\SheepMan Account Book\SheepMan Account Book\bin\Release\SheepMan Account Book.exe
+E:\Code\SheepMan Account Book\SheepMan Account Book\bin\Release\SheepMan Account Book.pdb
+E:\Code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\Code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\WindowsFormsApplication1.ChartForm.resources
+E:\Code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\WindowsFormsApplication1.SettingForm.resources
+E:\Code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\SheepMan Account Book.csproj.GenerateResource.Cache
+E:\Code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\SheepMan Account Book.exe
+E:\Code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\SheepMan Account Book.pdb
+D:\code\SheepMan Account Book\SheepMan Account Book\bin\Release\SheepMan Account Book.exe.config
+D:\code\SheepMan Account Book\SheepMan Account Book\bin\Release\SheepMan Account Book.exe
+D:\code\SheepMan Account Book\SheepMan Account Book\bin\Release\SheepMan Account Book.pdb
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\WindowsFormsApplication1.SettingForm.resources
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\SheepMan Account Book.csproj.GenerateResource.Cache
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\SheepMan Account Book.csproj.CoreCompileInputs.cache
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\SheepMan Account Book.exe
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\SheepMan Account Book.pdb
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x86\Release\SheepMan Account Book.csprojResolveAssemblyReference.cache

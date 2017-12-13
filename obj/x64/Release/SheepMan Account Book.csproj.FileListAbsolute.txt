@@ -1,0 +1,8 @@
+D:\code\SheepMan Account Book\SheepMan Account Book\bin\x64\Release\SheepMan Account Book.exe.config
+D:\code\SheepMan Account Book\SheepMan Account Book\bin\x64\Release\SheepMan Account Book.exe
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x64\Release\WindowsFormsApplication1.Form1.resources
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x64\Release\WindowsFormsApplication1.SettingForm.resources
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x64\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x64\Release\SheepMan Account Book.csproj.GenerateResource.Cache
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x64\Release\SheepMan Account Book.csproj.CoreCompileInputs.cache
+D:\code\SheepMan Account Book\SheepMan Account Book\obj\x64\Release\SheepMan Account Book.exe
