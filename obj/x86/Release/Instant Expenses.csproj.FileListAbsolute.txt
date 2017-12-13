@@ -1,0 +1,9 @@
+D:\code\Instant Expenses\Instant Expenses\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\code\Instant Expenses\Instant Expenses\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\code\Instant Expenses\Instant Expenses\obj\x86\Release\Instant Expenses.csproj.GenerateResource.Cache
+D:\code\Instant Expenses\Instant Expenses\obj\x86\Release\Instant Expenses.csproj.CoreCompileInputs.cache
+D:\code\Instant Expenses\Instant Expenses\obj\x86\Release\SheepMan Account Book.exe
+D:\code\Instant Expenses\Instant Expenses\obj\x86\Release\SheepMan Account Book.pdb
+D:\code\Instant Expenses\Instant Expenses\bin\Release\SheepMan Account Book.exe.config
+D:\code\Instant Expenses\Instant Expenses\bin\Release\SheepMan Account Book.exe
+D:\code\Instant Expenses\Instant Expenses\bin\Release\SheepMan Account Book.pdb

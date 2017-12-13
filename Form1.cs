@@ -677,35 +677,6 @@ namespace WindowsFormsApplication1
 
 
 
-        private SettingForm STF = new SettingForm();
-
-        private void toolStripButton3_Click(object sender, EventArgs e)
-        {
-
-
-
-
-            if (STF.IsDisposed == false)
-            {
-
-                STF.Show();
-                STF.Activate();
-                STF.WindowState = FormWindowState.Normal;
-            }
-            else if (STF.IsDisposed == true)
-            {
-
-                STF.Activate();
-            }
-
-
-        }
-
-
-
-
-
-
         static string myReplacer(Match m)
         {
             return Strings.StrConv(m.Value, VbStrConv.Narrow, 0);
